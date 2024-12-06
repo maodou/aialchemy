@@ -5,13 +5,13 @@ description:
 categories: 算法部分
 tags: 
 externalUrl: 
-date: 2024-10-19 22:53
+date: 2024-10-19T22:53:24+08:00
 draft: false
 showauthor: true
 authors:
   - 蚂蚁无双
 featureimage: 
-lastmod: 2024-10-19 22:53
+lastmod: 2024-12-06T15:49:07+08:00
 share: true
 ---
 [Moshi: a speech-text foundation model for real-time dialogue, Moshi AI](https://github.com/kyutai-labs/moshi)
