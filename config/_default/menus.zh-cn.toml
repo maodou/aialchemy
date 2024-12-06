@@ -11,57 +11,49 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "文档"
-  pageRef = "docs"
-  weight = 10
-
-[[main]]
-  name = "简码"
-  pageRef = "docs/shortcodes"
-  weight = 15
-
-[[main]]
-  name = "示例"
+  name = "炼金术"
   weight = 20
 
 [[main]]
-  name = "功能示例"
-  parent = "示例"
-  pageRef = "samples"
-  weight = 16
+  name = "Agentic"
+  pageRef = "agentic"
+  weight = 25
 
 [[main]]
-  name = "模板示例"
-  parent = "示例"
-  pageRef = "examples"
+  name = "基础部分"
+  pageRef = "基础部分"
   weight = 30
 
 [[main]]
-  name = "部署指南"
-  parent = "示例"
+  name = "算法部分"
   pageRef = "guides"
   weight = 40
 
 [[main]]
-  name = "用户列表"
-  pageRef = "users"
-  weight = 90
+  name = "微调部分"
+  pageRef = "guides"
+  weight = 50
 
-[[main]]
-  name = "周边"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
+#[[main]]
+#  name = "用户列表"
+#  pageRef = "users"
+#  weight = 90
+
+#[[main]]
+#  name = "周边"
+#  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+#  weight = 100
 
 #[[main]]
 #  name = "Test"
 #  pageRef = "pagTest"
 #  weight = 1000
 
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
+#[[main]]
+#  identifier = "twitter"
+#  pre = "x-twitter"
+#  url = "https://twitter.com/burufugu"
+#  weight = 200
 
 #[[main]]
 #  identifier = "mastodon"
@@ -69,11 +61,11 @@
 #  weight = 300
 #  url = "https://masto.ai/@blowfish"
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 400
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/nunocoracao/blowfish"
+#  weight = 400
 
 
 # -- Footer Menu --

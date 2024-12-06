@@ -1,6 +1,6 @@
 ---
-title: "使用指南"
-description: "Blowfish 的使用指南和教程"
+title: "Agentic"
+description: "AI Agentic，大模型应用设计模式"
 
 cascade:
   showDate: false
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Blowfish 的使用指南和教程
+AI Agentic，大模型应用设计模式
 {{< /lead >}}
 
 ---

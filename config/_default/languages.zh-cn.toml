@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
 weight = 4
-title = "Blowfish"
+title = "AI 炼金术"
 
 [params]
   displayName = "简体中文"
@@ -9,14 +9,14 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "img/blowfish_logo_transparent.png"
-  description = "一个强大、轻量级的 Hugo 主题。"
+  description = "AI 与生活"
 
 [params.author]
-  name = "Blowfish"
+  name = "蚂蚁无双"
   image = "img/blowfish_logo.png"
-  headline = "一个强大、轻量级的 Hugo 主题。"
-  bio = "一个强大、轻量级的 Hugo 主题。"
+  headline = "AI 与生活"
+  bio = "AI 与生活"
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/maodou" },
   ]

@@ -1,6 +1,6 @@
 ---
-title: "使用指南"
-description: "Blowfish 的使用指南和教程"
+title: "基础部分"
+description: "AI 机器学习相关的基础知识"
 
 cascade:
   showDate: false
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Blowfish 的使用指南和教程
+AI 机器学习相关的基础知识
 {{< /lead >}}
 
 ---
