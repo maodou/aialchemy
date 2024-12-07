@@ -32,7 +32,7 @@ smartTOCHideUnfocusedChildren = false
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = false
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -43,8 +43,8 @@ smartTOCHideUnfocusedChildren = false
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "agentic"
+  showMoreLink = false
+  showMoreLinkDest = "posts/炼金术/算法部分"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
